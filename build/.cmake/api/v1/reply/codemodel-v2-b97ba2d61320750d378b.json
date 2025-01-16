@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "sfSnake-master",
+					"jsonFile" : "directory-sfSnake-master-Debug-f1424b845ecb963bbf77.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "sfSnake-master",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lib"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "snake",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "snake::@59f34b55997453b924d9",
+					"jsonFile" : "target-snake-Debug-14cb0c3cf2d27e1fbc6e.json",
+					"name" : "snake",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/25048/Desktop/Final PJ/build",
+		"source" : "C:/Users/25048/Desktop/Final PJ"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

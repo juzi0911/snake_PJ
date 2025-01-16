@@ -1,0 +1,47 @@
+[
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\main.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\main.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/main.cpp"
+},
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\Fruit.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\Fruit.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/Fruit.cpp"
+},
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\Game.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\Game.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/Game.cpp"
+},
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\GameOverScreen.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\GameOverScreen.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/GameOverScreen.cpp"
+},
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\GameScreen.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\GameScreen.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/GameScreen.cpp"
+},
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\MenuScreen.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\MenuScreen.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/MenuScreen.cpp"
+},
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\Screen.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\Screen.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/Screen.cpp"
+},
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\Snake.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\Snake.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/Snake.cpp"
+},
+{
+  "directory": "C:/Users/25048/Desktop/Final PJ/build/sfSnake-master",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/snake.dir/includes_CXX.rsp -g -O3 -std=c++20 -o CMakeFiles\\snake.dir\\SnakeNode.cpp.obj -c \"C:\\Users\\25048\\Desktop\\Final PJ\\sfSnake-master\\SnakeNode.cpp\"",
+  "file": "C:/Users/25048/Desktop/Final PJ/sfSnake-master/SnakeNode.cpp"
+}
+]
